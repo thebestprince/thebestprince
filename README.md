@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thebestprince
 - 👀 I’m interested in building websites
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning React and Python
 - 💞️ I’m looking to collaborate on projects with friendly people
 - 📫 How to reach me @dreedjr1992@gmail.com
 
